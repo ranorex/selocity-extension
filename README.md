@@ -19,4 +19,4 @@ You can install the extension in the [Google Chrome Web Store](https://chrome.go
 
 ## Where can I get more information?
 
-Visit [https://www.ranorex.com/selocity](https://www.ranorex.com/selocity) to learn about the features and benefits of Ranorex Selocity
+Visit [https://www.ranorex.com/selocity](https://www.ranorex.com/selocity) to learn about the features and benefits of Ranorex Selocity, and review our updates in the [changelog](CHANGELOG.md).
