@@ -12,14 +12,14 @@
 * CSS selectors now use single quotes instead of double quotes
 * Send a selector via context-menu to Ranorex Webtestit
 * Element sent feedback - After sending an element, a feedback is shown providing info about send element action outcome
-* Fixed - Selocity tab does not show a scrollbar when hinght is too small.
+* Fixed - Ranorex Selocity tab does not show a scrollbar when height is too small.
 * Fixed - disconnect bar overlaps selectors
 
 
-## 0.6.0 (2018-06-21
+## 0.6.0 (2018-06-21)
 
 * Hint for chrome internal pages - show hint when trying to track an element on a page without a content script
-* Playground for selector evaluation - Selocity now provides a possibility to test generated selectors and to see the matching    elements
+* Playground for selector evaluation - Selocity now provides a possibility to test generated selectors and to see the matching elements
 * Rank selector list after matched elements count - selectors with the lowest number of matches are ranked first
 * Option to use LinkText selector(s)
 
