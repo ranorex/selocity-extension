@@ -16,7 +16,7 @@
 * Fixed - disconnect bar overlaps selectors
 
 
-## 0.6.0 (2018-06-21
+## 0.6.0 (2018-06-21)
 
 * Hint for chrome internal pages - show hint when trying to track an element on a page without a content script
 * Playground for selector evaluation - Selocity now provides a possibility to test generated selectors and to see the matching    elements
