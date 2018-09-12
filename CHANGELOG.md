@@ -2,15 +2,15 @@
 
 ## 0.8.0 (2018-09-06)
 
-* Fix broken selectors in diagnostic mode - fixes a selector sent form Webtestit app in diagnostic mode 
-* Debug mode - selocity indicates debugging mode test run from Webtestit
-* Send element screenshots - sending elements now provides them with screenshots
+* Fix broken selectors in diagnostic mode - fixes a selector sent from Ranorex Webtestit in diagnostic mode 
+* Debug mode - Ranorex Selocity indicates debugging mode test run from Ranorex Webtestit
+* Send element screenshots - sending elements now sends screenshots of the element to Ranorex Webtestit
 
 ## 0.7.0 (2018-08-09)
 
-* Send custom selectors anyway - Selocity did not allow to send custom selectors to Webtestit, that matched no or more than one element. You will now get the option to bypass this recommendation, and send the selector anyway.
+* Send custom selectors anyway - Ranorex Selocity did not allow to send custom selectors to Ranorex Webtestit, that matched no or more than one element. You will now get the option to bypass this recommendation, and send the selector anyway.
 * CSS selectors now use single quotes instead of double quotes
-* Send a selector via context-menu
+* Send a selector via context-menu to Ranorex Webtestit
 * Element sent feedback - After sending an element, a feedback is shown providing info about send element action outcome
 * Fixed - Selocity tab does not show a scrollbar when hinght is too small.
 * Fixed - disconnect bar overlaps selectors
