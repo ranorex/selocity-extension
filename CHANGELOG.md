@@ -3,7 +3,7 @@
 ## 1.0.0
 
 * Improved iframe support - Ranorex Selocity can now build and evaluate selectors for elements within iframes, both same-origin and cross-origin, with an indicator that the currently inspected element is in an iframe, and a the possibility to jump to it directly.
-* Implemented the Crate Page Object file from Ranorex Selocity extension - now you can create a new Page Object file in your active Ranorex Webtestit project directly from the Ranorex Selocity extension!
+* Create Page Object files from Ranorex Selocity - now you can create a new Page Object file in your active Ranorex Webtestit project directly from the Ranorex Selocity extension!
 
 ## 0.8.6
 
