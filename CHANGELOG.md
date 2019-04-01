@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1 (2019-04-01)
+
+* Bugfix: page object screenshots could not be created thanks to a bundling oversight
+
 ## 1.0.0 (2019-04-01)
 
 * Improved iframe support - Ranorex Selocity can now build and evaluate selectors for elements within iframes, both same-origin and cross-origin, with an indicator that the currently inspected element is in an iframe, and a the possibility to jump to it directly.
