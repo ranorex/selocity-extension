@@ -1,11 +1,11 @@
 # Changelog
 
-## 1.0.0
+## 1.0.0 (2019-04-01)
 
 * Improved iframe support - Ranorex Selocity can now build and evaluate selectors for elements within iframes, both same-origin and cross-origin, with an indicator that the currently inspected element is in an iframe, and a the possibility to jump to it directly.
 * Create Page Object files from Ranorex Selocity - now you can create a new Page Object file in your active Ranorex Webtestit project directly from the Ranorex Selocity extension!
 
-## 0.8.6
+## 0.8.6 (2019-02-26)
 
 * Fixed Send selector from context menu not working issue
 * Send selector from the context menu and from Selector Playground sometimes generating the wrong screenshot issue is fixed
