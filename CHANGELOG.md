@@ -1,6 +1,6 @@
 # Changelog
 
-### 1.3.0 (2019-09-18)
+## 1.3.0 (2019-09-18)
 * Added Connect to Ranorex Webtestit option in the context menu of the Ranorex Selocity extension
 * Updated instructions on how to connect and use Ranorex Selocity with Ranorex Webtestit
 * Added animated gifs on how to connect with Ranorex Webtestit
