@@ -1,5 +1,17 @@
 # Changelog
 
+### 1.3.0 (2019-09-18)
+* Added Connect to Ranorex Webtestit option in the context menu of the Ranorex Selocity extension
+* Updated instructions on how to connect and use Ranorex Selocity with Ranorex Webtestit
+* Added animated gifs on how to connect with Ranorex Webtestit
+
+## 1.2.0 (2019-08-28)
+* Fixed Ranorex Selocity banner hight on smaller sizes
+* Send selector to Ranorex Webtestit button - the buttons are not disabled if not connected to Ranorex Webtestit, instead, a popup is shown, informing the user about the steps necessary for this action to be completed
+
+## 1.1.1 (2019-05-21)
+* Fixed Create New Page Object button and playground input box misalignment when settings button is clicked
+
 ## 1.0.1 (2019-04-01)
 
 * Bugfix: page object screenshots could not be created thanks to a bundling oversight
