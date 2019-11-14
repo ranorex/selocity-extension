@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.4.2 (2019-11-12)
+* Fixed Ranorex Selocity unable to locate selectors that contain special characters and symbols
+* Fixed port negotiation when connecting to Ranorex Webtestit (if port 3000 is blocked, other port will be chosen)
+
+## 1.4.1 (2019-10-14)
+* Minor bug fixes with how to gifs and connect button
+
+## 1.4.0 (2019-10-03)
+* Selectors sent to Ranorex Webtstit are formated in the projects selected programming language
+* Ranorex Selocity banner blinking when resizing the window - fixed
+* Reduced the gif size resulting in extension taking up less space
+
 ## 1.3.0 (2019-09-18)
 * Added Connect to Ranorex Webtestit option in the context menu of the Ranorex Selocity extension
 * Updated instructions on how to connect and use Ranorex Selocity with Ranorex Webtestit
